@@ -1,1 +1,3 @@
-# Projects
+1) Implemented an Associative Learning machine learning model, to analyse customer purchases and formulate rules stating which items are often bought together by the customers. This analysis can be used to formulate profitable schemes, such as buy 1 get 1, on particular items.
+
+2) Implemented a Clustering machine learning model, to recognise and analyse patterns between various mall customers, based on the dataset about customer's income, gender, spending score etc. This analysis can be used to detect the customers that have large annual income, but less spending score, and thus offers and deals can be formulated to target that particular section of customers.
